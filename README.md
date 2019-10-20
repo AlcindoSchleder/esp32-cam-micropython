@@ -1,6 +1,4 @@
-# uPyCam
-
-## Tirando fotografias com a ESP32_CAM
+# esp32-cam-micropython
 
 ### Tutorial para preparar um ambiente de desenvolvimento com Toolchain e ESP-IDF para MicroPyhton
 
