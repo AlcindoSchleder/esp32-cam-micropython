@@ -15,7 +15,7 @@ Na seguinte tabela, você encontrará o hardware e o software que você usará n
 |USB-TTL|[![](https://uploads.filipeflop.com/2017/07/4MD16-1.jpg)]([https://www.filipeflop.com/produto/modulo-esp32-cam-com-camera-ov2640-2mp/](https://www.filipeflop.com/produto/modulo-esp32-cam-com-camera-ov2640-2mp/))|
 |esp32-camera-for-micropython|[![](https://avatars0.githubusercontent.com/u/85464?s=460&v=4)](https://github.com/tsaarni/esp32-camera-for-micropython)|
 |micropython-with-esp32-cam|[![](https://lemariva.com/storage/temp/public/0c6/51f/27b/GitHub-Mark__400.png)](https://github.com/tsaarni/micropython-with-esp32-cam)|
-|uPyCam|Este repositório|
+|uPyCam|[![](https://avatars3.githubusercontent.com/u/37807590?s=460&v=4)](https://github.com/AlcindoSchleder/uPyCam)|
 |||
 
 ## DIY - Faça você mesmo
